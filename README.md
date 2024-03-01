@@ -12,7 +12,7 @@ Loan Repayment Prediction:
   Pandas, 
   Numpy,
   Seaborn,
-  Matplotlib,
+  Matplotlib, and 
   Sklearn
 
 - Analysis: 
@@ -24,9 +24,9 @@ Sales Exploritory Analysis:
   In this project I use exploritory data analysis and data cleaning techniques on an Ecommerce synthetic data set to gain insights of the data. 
 
 - Libraries used: 
-  Pandas 
-  Numpy
-  Matplotlib
+  Pandas,
+  Numpy,
+  Matplotlib, and
   Sklearn
 
 - Analysis: 
