@@ -8,11 +8,11 @@ Loan Repayment Prediction:
 - Overview: 
   This project analyzes the Loans dataset to predict repayment for loans lent out by clients at Lending Club.
 
--Libraries used: 
-  Pandas 
-  Numpy
-  Seaborn
-  Matplotlib
+- Libraries used: 
+  Pandas, 
+  Numpy,
+  Seaborn,
+  Matplotlib,
   Sklearn
 
 - Analysis: 
